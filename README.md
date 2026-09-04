@@ -136,7 +136,7 @@ A página apresenta uma visão consolidada dos combustíveis líquidos, incluind
 - Top 10 bandeiras por preço médio
 - Insights dinâmicos que respondem aos filtros
 
-![Visão Executiva](screenshots/01_visao_executiva.png)
+![Visão Executiva](01_visao_executiva.png)
 
 ### 2. Análise Regional
 
@@ -151,7 +151,7 @@ Página dedicada à **Gasolina Comum**, com:
 - Insights interpretativos dinâmicos
 - Cobertura da pesquisa no contexto selecionado
 
-![Análise Regional](screenshots/02_analise_regional.png)
+![Análise Regional](02_analise_regional.png)
 
 ### 3. Gasolina x Etanol
 
@@ -167,7 +167,7 @@ Página voltada à comparação de competitividade entre os dois combustíveis:
 - Queda acumulada em pontos percentuais
 - Interpretação das faixas de competitividade
 
-![Gasolina x Etanol](screenshots/03_gasolina_x_etanol.png)
+![Gasolina x Etanol](03_gasolina_x_etanol.png)
 
 ## Principais insights
 
